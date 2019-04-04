@@ -1,0 +1,12 @@
+*.log
+.cache
+.DS_Store
+.idea
+build
+dist
+node_modules
+.gitkeep
+docs/.vuepress/dist
+public
+tmp
+yarn.lock
